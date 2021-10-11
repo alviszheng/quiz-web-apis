@@ -22,8 +22,8 @@ Build a timed code quiz with multiple-choice questions. This app will run in the
 
 ## Project images 
 
-![Project Screenshot](./Assets/images/screenshot1.png)
-![Project Screenshot](./Assets/images/screenshot2.png)
-![Project Screenshot](./Assets/images/screenshot3.png)
-![Project Screenshot](./Assets/images/screenshot4.png)
+![Project Screenshot](./assets/images/screenshot1.png)
+![Project Screenshot](./assets/images/screenshot2.png)
+![Project Screenshot](./assets/images/screenshot3.png)
+![Project Screenshot](./assets/images/screenshot4.png)
 
