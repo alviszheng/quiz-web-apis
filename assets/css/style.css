@@ -1,0 +1,68 @@
+body {
+    font-family: serif;
+  }
+  .container {
+    margin: 100px auto 0 auto;
+    max-width: 600px;
+  }
+  
+  .scores {
+    position: absolute;
+    top: 25px;
+    left: 25px;
+  }
+  
+  .timer {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+  }
+  
+  .start {
+    text-align: center;
+  }
+  
+  .result {
+    font-size: 120%;
+    margin-top: 20px;
+    padding-top: 10px;
+    color: 98989c;
+    border-top: 1px solid rgb(201, 193, 193);
+  }
+
+  .hide {
+    display: none;
+  }
+
+  .choices button {
+    display: block;
+  }
+  
+  button {
+    display: inline-block;
+    margin: 1px;
+    cursor: pointer;
+    font-family: serif;
+    font-size: 100%;
+    background-color: rgb(133, 90, 133);
+    border-radius: 5px;
+    padding: 2px 10px;
+    color: white;
+    border: 0;
+    transition: background-color 0.1s;
+  }
+  
+  button:hover {
+    background-color: silver;
+  }
+  
+  a {
+    color: black;
+    text-decoration: none;
+    transition: color 0.5s;
+  }
+  
+  a:hover {
+    color: #98989c;
+  }
+  
